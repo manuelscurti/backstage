@@ -530,8 +530,7 @@ export const useTechDocsReaderDom = (
                 const calculate = (value: typeof fontSize) => {
                   let factor: number | string = 1;
                   if (typeof value === 'number') {
-                    // 60% of the size defined because it is too big
-                    factor = (value / 16) * 0.6;
+                    factor = value / 16;
                   }
                   if (typeof value === 'string') {
                     factor = value.replace('rem', '');
