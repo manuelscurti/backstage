@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog
 
+## 1.2.1-next.0
+
+### Patch Changes
+
+- 449dcef98e: Updates the `isKind`, `ìsComponentType`, and `isNamespace` to allow an array of possible values
+- Updated dependencies
+  - @backstage/core-components@0.9.5-next.0
+  - @backstage/integration-react@1.1.1-next.0
+  - @backstage/plugin-catalog-react@1.1.1-next.0
+
 ## 1.2.0
 
 ### Minor Changes

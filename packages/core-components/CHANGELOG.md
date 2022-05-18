@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.9.5-next.0
+
+### Patch Changes
+
+- 6968b65ba1: Updated dependency `@react-hookz/web` to `^14.0.0`.
+
 ## 0.9.4
 
 ### Patch Changes

@@ -154,5 +154,15 @@
     "@backstage/plugin-user-settings": "0.4.4",
     "@backstage/plugin-xcmetrics": "0.2.25"
   },
-  "changesets": []
+  "changesets": [
+    "beige-deers-remember",
+    "fluffy-candles-learn",
+    "loud-jars-kick",
+    "nervous-gorillas-approve",
+    "renovate-ad175cc",
+    "slimy-elephants-attend",
+    "techdocs-swans-check",
+    "techdocs-ways-type",
+    "techdocs-wolves-carry"
+  ]
 }

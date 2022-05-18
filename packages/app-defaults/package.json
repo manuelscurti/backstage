@@ -1,7 +1,7 @@
 {
   "name": "@backstage/app-defaults",
   "description": "Provides the default wiring of a Backstage App",
-  "version": "1.0.2",
+  "version": "1.0.3-next.0",
   "private": false,
   "publishConfig": {
     "access": "public",
@@ -33,7 +33,7 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/core-components": "^0.9.4",
+    "@backstage/core-components": "^0.9.5-next.0",
     "@backstage/core-app-api": "^1.0.2",
     "@backstage/core-plugin-api": "^1.0.2",
     "@backstage/plugin-permission-react": "^0.4.1",

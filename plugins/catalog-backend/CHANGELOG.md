@@ -1,5 +1,21 @@
 # @backstage/plugin-catalog-backend
 
+## 1.2.0-next.0
+
+### Minor Changes
+
+- b594679ae3: Allow array as non-spread arguments at the `CatalogBuilder`.
+
+  ```typescript
+  builder.addEntityProvider(...getArrayOfProviders());
+  ```
+
+  can be simplified to
+
+  ```typescript
+  builder.addEntityProvider(getArrayOfProviders());
+  ```
+
 ## 1.1.2
 
 ### Patch Changes

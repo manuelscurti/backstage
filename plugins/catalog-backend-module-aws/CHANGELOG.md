@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend-module-aws
 
+## 0.1.6-next.0
+
+### Patch Changes
+
+- eb2544b21b: Inline config interfaces
+- Updated dependencies
+  - @backstage/plugin-catalog-backend@1.2.0-next.0
+
 ## 0.1.5
 
 ### Patch Changes

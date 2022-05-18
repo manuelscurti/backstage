@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend-module-gerrit
 
+## 0.1.1-next.0
+
+### Patch Changes
+
+- eb2544b21b: Inline config interfaces
+- Updated dependencies
+  - @backstage/plugin-catalog-backend@1.2.0-next.0
+
 ## 0.1.0
 
 ### Minor Changes
